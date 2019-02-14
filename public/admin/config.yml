@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: sajclarke/cms-test
+  repo: sajclarke/cms-sample
 
 media_folder: media_folder
 
