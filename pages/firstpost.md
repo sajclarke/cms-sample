@@ -1,0 +1,4 @@
+---
+title: Firstpost
+---
+Lorem ipsum
